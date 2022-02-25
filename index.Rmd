@@ -1,0 +1,45 @@
+---
+title: "Arcangelo Leone de Castris"
+image: "pic.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/arcangelo-leone-de-castris-181b21203/"
+  - label: Twitter
+    url: "https://twitter.com/LeoneCastris"
+  - label: GitHub
+    url: "https://github.com/aleonedecastris"
+  - label: Email
+    url: "mailto:aleonedecastris@uchicago.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+* Fulbright scholar currently studying how the internet affects society and the role of public policy in shaping the digital information environment. 
+* Interests: Policy, Governance, Regulatory Affairs, European Union, Democratic Theory, Digital Platforms and Disinformation 
+* Skills: Project Management, Research & Data Analysis (Qualitative & Quantitative), Leadership, Communication (Oral, Written & Interpersonal), Critical Thinking, Planning & Organizing Negotiation, Team Building, Social / Emotional Intelligence 
+* Technical: R, Python, Stata, ECDL Certified, Microsoft Office Suite (including Excel), Social Media
+
+
+## Education
+
+**University of Chicago** | Chicago, IL
+
+MA in the Social Sciences (MAPSS) | September 2021 - June 2022
+
+**College of Europe** | Bruges, BE
+
+MA in European Political and Governance Studies | September 2020 - June 2021
+
+**Bocconi University** | Milan, IT
+
+Integrated Master of Arts in Law (JD equivalent) | September 2012 - July 2019
+
+## Experience
+
+**European Parliament** | Accredited Parliamentary Assistant| September 2019 - September 2020
+
+**Mediobanca** | Corporate Affairs Intern | September 2016 - December 2016
+
+**Macao** | Art Director and Booker | September 2013 - August 2019
