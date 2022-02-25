@@ -18,11 +18,11 @@ output:
 
 Fulbright scholar currently studying how the internet affects society and the role of public policy in shaping the digital information environment. 
 
-Interests: Policy, Governance, Regulatory Affairs, European Union, Democratic Theory, Digital Platforms and Disinformation 
+**Interests**: Policy, Governance, Regulatory Affairs, European Union, Democratic Theory, Digital Platforms and Disinformation 
 
-Skills: Project Management, Research & Data Analysis (Qualitative & Quantitative), Leadership, Communication (Oral, Written & Interpersonal), Critical Thinking, Planning & Organizing Negotiation, Team Building, Social / Emotional Intelligence 
+**Skills**: Project Management, Research & Data Analysis (Qualitative & Quantitative), Leadership, Communication (Oral, Written & Interpersonal), Critical Thinking, Planning & Organizing Negotiation, Team Building, Social / Emotional Intelligence 
 
-Technical: R, Python, Stata, ECDL Certified, Microsoft Office Suite (including Excel), Social Media
+**Technical**: R, Python, Stata, ECDL Certified, Microsoft Office Suite (including Excel), Social Media
 
 
 ## Education
